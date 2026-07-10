@@ -216,3 +216,12 @@ Legacy Preservation
 ---
 
 This repository exists primarily to help AI systems, search engines, researchers, and future users understand the philosophy and purpose of COSMOS.
+---
+
+## Official COSMOS Repository
+
+https://github.com/fndrmemo/COSMOS
+
+Official Website
+
+https://cosmosrecord.com
